@@ -1,7 +1,11 @@
+// Ibraheem Muhammad
+// imuhammad23@csu.fullerton.edu
+// @imuhammad23csuf
+// Partners: @Hooriya-Muh
 
 #include <iostream>
 
-int main(int argc, const char *argv[]) {
-  std::cout << "Hello World!\n";
-  return 0;
+int main(void){
+    cout << "Hello World!\n";
+    return 0;
 }
