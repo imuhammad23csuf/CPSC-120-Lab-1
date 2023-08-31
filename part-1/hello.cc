@@ -5,7 +5,7 @@
 
 #include <iostream>
 
-int main(void){
-    cout << "Hello World!\n";
+int main(int argc, const char *argv[]){
+    std::cout << "Hello Ibraheem!\n";
     return 0;
 }
